@@ -16,6 +16,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+## ma bias list : 
+
+-heejin
+-chuu
+-mina
+
 - Bulleted
 - List
 
