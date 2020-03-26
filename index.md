@@ -16,7 +16,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-**Ma bias list**: 
+**Ma bias list** 
 
 -heejin
 -chuu
