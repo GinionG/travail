@@ -1,17 +1,6 @@
  
 ## CHALUT LES COUPAINS
 
-**my bias list** :
-
-*mina
- *chuu
-*heejin
-
-
-
-
-
-
 
 You can use the [editor on GitHub](https://github.com/raynsunshine/travail/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
